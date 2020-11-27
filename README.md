@@ -1,4 +1,4 @@
-# teleop_twist_keyboard
+# jetbot_twist_keyboard
 Generic Keyboard Teleop for ROS
 
 # Launch
